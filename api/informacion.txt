@@ -1,0 +1,2 @@
+La carpeta api es para poder extraer todos los microservicios que vamos a necesitas 
+en esta se incluye los componentes  
